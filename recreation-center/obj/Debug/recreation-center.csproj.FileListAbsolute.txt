@@ -1,0 +1,16 @@
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\bin\Debug\coursework.exe.config
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\bin\Debug\coursework.exe
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\bin\Debug\coursework.pdb
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\recreation-center.csproj.AssemblyReference.cache
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.AddTicket.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.Customer.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.LoginPage.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.Properties.Resources.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.ReportsPage.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.HomePage.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.TicketPrice.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.ViewChart.resources
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\recreation-center.csproj.GenerateResource.cache
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\recreation-center.csproj.CoreCompileInputs.cache
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.exe
+F:\BSc. Computing (3rd Year)\Application Development\COURSEWORK 1\recreation-center\recreation-center\obj\Debug\coursework.pdb
