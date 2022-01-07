@@ -1,0 +1,11 @@
+ID, Date, Name, Address, Phone, Category, No. of People, IN Time, OUT Time, Total
+123,1/3/2022,asd,sd,sdasd,Child,1,10:00 AM,11:00 AM,45.00
+123,1/4/2022,asd,sd,sdasd,Adult,1,10:00 AM,11:00 AM,45.00
+123,1/3/2022,asd,sd,sdasd,Group of 10-15,11,10:00 AM,11:00 AM,45.00
+11,1/6/2022,asd,sd,sdasd,Group of 10-15,14,10:00 AM,11:00 AM,45.00
+12,1/5/2022,asdasd,asda,dasdasd,Group of 10-15,12,10:00 AM,11:00 AM,45.00
+22,1/4/2022,asd,asd,sdasd,Group of 10-15,12,10:00 AM,11:00 AM,12.00
+1,1/3/2022,asdas,das,asd,Group of 10-15,12,10:00 AM,01:00 PM,45.00
+33,1/7/2022,asda,da,dasd,Group of 10-15,12,10:00 AM,01:00 PM,23.00
+44,1/3/2022,asd,sdas,dasdasd,Group of 10-15,12,10:00 AM,01:00 PM,324.00
+12,1/19/2022,asdasda,dasd,asdasd,Group of 1-5,3,10:00 AM,05:00 PM,312.00
